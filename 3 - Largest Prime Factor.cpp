@@ -6,7 +6,7 @@ int main()
     long long n,max;
     int N;
     cin>>N;
-    while(N--!=0)
+    while(N--)
     {
         cin>>n;
         while(n%2==0)
